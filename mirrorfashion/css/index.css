@@ -27,9 +27,10 @@
 
 	p{
 		padding: 5px;
+		text-indent: 30px; 
 	}
 
-	#centro-distribuicao {							
+		#centro-distribuicao {							
         margin-left: auto;
         margin-right: auto;
         width: 550px
@@ -42,3 +43,6 @@
 	#rodape img {margin-right: 30px;
 				 vertical-align: middle;
 				 width: 94px;}		 
+
+	#familia-pelho { float: right; 
+					 margin: 0 0 10px 10px; }
