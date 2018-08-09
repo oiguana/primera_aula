@@ -21,3 +21,56 @@ margin-right: auto;
 width: 940px;
 }
 
+body {
+  color: #333333;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+header {
+  position: relative;
+  padding: 20px;
+}
+
+.sacola {
+background-image: url(../img/sacola.png);
+background-repeat: no-repeat;
+background-position: top right;
+
+   font-size: 14px;
+   padding-right: 35px ;
+   text-align: right;
+   width: 140px;
+}
+
+.sacola{
+  position: absolute;
+  top: 20px;
+  right: 0;
+}
+
+.sacola {
+  padding-top: 8px
+}
+
+.menu-opcoes ul {
+  font-size: 15px;
+}
+
+.menu-opcoes a {
+   color: #003366;
+}
+
+.menu-opcoes ul li {
+  display: inline;
+  margin-left: 20px
+}
+.menu-opcoes{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.container {
+  margin: auto;
+  width: 940px
+}
