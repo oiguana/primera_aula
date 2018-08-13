@@ -71,6 +71,15 @@ header {
   width: 170px;
 }
 
+.busca
+.menu-departamentos {
+  float: left;
+ }
+
+ .menu-departamentos {
+  clear: left;
+ }
+
 .menu-departamentos li {
   background-color: white;
   margin-bottom: 1px;
