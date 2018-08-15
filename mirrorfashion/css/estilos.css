@@ -49,7 +49,7 @@ header {
 
 .container {
   margin: auto;
-  width: 940px
+  width: 90%;
 }
 
 .busca,
@@ -71,8 +71,7 @@ header {
   width: 170px;
 }
 
-.busca
-.menu-departamentos {
+.busca, .menu-departamentos {
   float: left;
  }
 
