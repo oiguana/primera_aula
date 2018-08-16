@@ -102,3 +102,12 @@ header {
   color: #333333;
   text-decoration: none;
 }   
+
+.menu-departamentos{
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+
+.destaque {
+  margin-top: 10px
+}
